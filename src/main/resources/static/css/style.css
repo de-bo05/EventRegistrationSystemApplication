@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.event-card {
+    margin-bottom: 20px;
+}
+
+.qr-code {
+    max-width: 200px;
+    margin: 10px auto;
+    display: block;
+}
+
+.modal-qr-code {
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+}
+
+.badge {
+    font-size: 0.9em;
+}
+
+.table-responsive {
+    margin-top: 20px;
+}
+
