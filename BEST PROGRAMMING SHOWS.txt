@@ -1,0 +1,86 @@
+## 🟢 QUESTION 1  
+### *Topic clarity + real problem + slides + diagrams (4 marks)*
+
+📍 **Files to show:**
+- `README.md` → project description
+- `Event_Registration_System_Presentation.pptx` → slides
+- `DATA FLOW DIAGRAM.png`
+- `USE CASE DIAGRAM.drawio.png`
+- `SEQUENCE DIAGRAM.drawio.png`
+- `ER DIAGRAM.png`
+
+✅ **You already score 4/4**
+
+---
+
+## 🟢 QUESTION 2  
+### *Understanding of programming language (4 marks)*
+
+📍 **Folders to show:**
+- `src/main/java/...`
+- Controllers, Services, Repositories
+- Spring Security configs
+
+📍 **Explain verbally:**
+- Why you used Spring Boot
+- MVC flow (Controller → Service → Repository)
+- How JWT authentication works
+
+✅ **Score: 3.5–4 / 4**
+
+---
+
+## 🟢 QUESTION 3  
+### *Best programming practices (8 marks)*
+
+📍 **Evidence:**
+- `src/main/java/` (clean packages)
+- `security_configuration.md`
+- `functional_requirements.md`
+- `non_functional_requirements.md`
+- `API_DOCUMENTATION.md`
+
+📍 **Mention:**
+- Naming conventions
+- Separation of concerns
+- Configuration classes
+- Use of DTOs & services
+
+✅ **Score: ~7–8 / 8**
+
+---
+
+## 🟢 QUESTION 4  
+### *Version control usage – GitHub (10 marks)*
+
+📍 **Evidence:**
+- GitHub commits history
+- `.gitignore`
+- `README.md`
+- Diagrams & docs committed
+
+📍 **Explain:**
+- GitHub used as VCS
+- Code pushed incrementally
+- Repo is complete and reproducible
+
+⚠️ Improve commit messages = full marks
+
+✅ **Score: ~8.5–10 / 10**
+
+---
+
+## 🟢 QUESTION 5  
+### *Design pattern used (5 marks)*
+
+📍 **Patterns in your project:**
+- **MVC** → Controllers / Services / Repositories
+- **Singleton** → configuration beans
+- **Factory / Role-based logic**
+
+📍 **Files to show:**
+- Controllers
+- Service classes
+- Config classes
+
+✅ **Score: 5 / 5**
